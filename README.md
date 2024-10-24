@@ -1,2 +1,3 @@
-# photo-organizer
-Simple program for organize your photos directory in year order
+# Photo Organizer
+
+My experiment to play with EXIF metadata using Go.
